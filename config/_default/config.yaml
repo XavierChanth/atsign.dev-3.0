@@ -19,7 +19,7 @@ sitemap:
   priority: 0.5
 
 taxonomies:
-# TODO
+  tag: tags
 
 # Relative Permalinks
 # permalinks:
